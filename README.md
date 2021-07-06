@@ -1,2 +1,2 @@
 # Aulas-Projetos
-Projetos feitos nas aulas do DIO.
+Projetos feitos nas aulas da DIO.
